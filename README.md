@@ -27,7 +27,7 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
-- LinkedIn: (linkedin.com/in/marcus-lafaiete-74b084128)
+- LinkedIn: linkedin.com/in/marcus-lafaiete-74b084128
 - Email: marcuslaf@hotmail.com
 
 ## 💻 Projetos em Destaque
@@ -72,7 +72,7 @@ Junior Front-end Developer passionate about creating incredible and functional w
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- LinkedIn: (linkedin.com/in/marcus-lafaiete-74b084128)
+- LinkedIn: linkedin.com/in/marcus-lafaiete-74b084128
 - Email: marcuslaf@hotmail.com
 
 ## 💻 Featured Projects
