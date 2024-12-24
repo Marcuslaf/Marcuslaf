@@ -39,7 +39,7 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 - **Python**
 
 ---
-⭐️ Feito com ❤️ por Marcus Lafaiete
+ 
 
 # Hello, welcome to my GitHub! 👋
 
@@ -82,5 +82,5 @@ Junior Front-end Developer passionate about creating incredible and functional w
 - **Python**
 
 ---
-⭐️ Made with ❤️ by Marcus Lafaiete
+
 
