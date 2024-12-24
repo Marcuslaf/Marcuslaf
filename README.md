@@ -38,8 +38,6 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 
 ## 🌱 Atualmente estudando
 - **Python**
-- 
-- 
 
 ---
 ⭐️ Feito com ❤️ por Marcus Lafaiete
@@ -84,8 +82,6 @@ Junior Front-end Developer passionate about creating incredible and functional w
 
 ## 🌱 Currently studying
 - **Python**
--
--
 
 ---
 ⭐️ Made with ❤️ by Marcus Lafaiete
