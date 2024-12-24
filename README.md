@@ -26,6 +26,11 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 ## 📊 Estatísticas GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
 
+## 📫 Como me encontrar
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
+
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
+
 ## 💻 Projetos em Destaque
 - [Projeto 1](link_projeto) - Breve descrição
 - [Projeto 2](link_projeto) - Breve descrição
@@ -38,9 +43,6 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 
 ---
 ⭐️ Feito com ❤️ por Marcus Lafaiete
-
-
-
 
 # Hello, welcome to my GitHub! 👋
 
@@ -70,6 +72,11 @@ Junior Front-end Developer passionate about creating incredible and functional w
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
 
+## 📫 How to reach me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
+
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
+
 ## 💻 Featured Projects
 - [Project 1](link_project) - Brief description
 - [Project 2](link_project) - Brief description
@@ -82,3 +89,4 @@ Junior Front-end Developer passionate about creating incredible and functional w
 
 ---
 ⭐️ Made with ❤️ by Marcus Lafaiete
+
