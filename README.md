@@ -36,7 +36,7 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 - [Projeto 3](link_projeto) - Breve descrição
 
 ## 🌱 Atualmente estudando
-- 
+- **Python**
 - 
 - 
 
@@ -81,7 +81,7 @@ Junior Front-end Developer passionate about creating incredible and functional w
 - [Project 3](link_project) - Brief description
 
 ## 🌱 Currently studying
--
+- **Python**
 -
 -
 
