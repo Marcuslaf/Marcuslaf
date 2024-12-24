@@ -33,9 +33,7 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
 
 ## 💻 Projetos em Destaque
-- [Projeto 1](link_projeto) - Breve descrição
-- [Projeto 2](link_projeto) - Breve descrição
-- [Projeto 3](link_projeto) - Breve descrição
+- Mais detalhes em breve
 
 ## 🌱 Atualmente estudando
 - **Python**
@@ -78,9 +76,7 @@ Junior Front-end Developer passionate about creating incredible and functional w
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
 
 ## 💻 Featured Projects
-- [Project 1](link_project) - Brief description
-- [Project 2](link_project) - Brief description
-- [Project 3](link_project) - Brief description
+- More details coming soon
 
 ## 🌱 Currently studying
 - **Python**
