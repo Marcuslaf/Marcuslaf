@@ -1,16 +1,89 @@
-## Hi there 👋
+# Olá, seja bem-vindo ao meu GitHub! 👋
 
-<!--
-**Marcuslaf/Marcuslaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis e funcionais. Sempre em busca de aprendizado e novos desafios na área de desenvolvimento web.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades Técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens e Tecnologias
+- **HTML5** - Estruturação semântica e acessível
+- **CSS3** - Layouts responsivos e animações
+- **JavaScript** - Manipulação do DOM e interatividade
+- **Python** - Automação e scripts
+
+### Frameworks e Bibliotecas
+- **Bootstrap** - Desenvolvimento ágil e responsivo
+
+### Ferramentas
+- **Git** - Controle de versão e colaboração
+
+## 🎯 Objetivos
+- Aprimorar minhas habilidades em JavaScript
+- Aprender React.js
+- Contribuir para projetos open source
+- Desenvolver projetos pessoais desafiadores
+
+## 📊 Estatísticas GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+- LinkedIn: [Marcus Lafaiete](linkedin.com/in/marcus-lafaiete-74b084128)
+- Email: marcuslaf@hotmail.com
+
+## 💻 Projetos em Destaque
+- [Projeto 1](link_projeto) - Breve descrição
+- [Projeto 2](link_projeto) - Breve descrição
+- [Projeto 3](link_projeto) - Breve descrição
+
+## 🌱 Atualmente estudando
+- 
+- 
+- 
+
+---
+⭐️ Feito com ❤️ por Marcus Lafaiete
+
+# Hello, welcome to my GitHub! 👋
+
+## About me
+Junior Front-end Developer passionate about creating incredible and functional web experiences. Always seeking learning opportunities and new challenges in web development.
+
+## 🚀 Technical Skills
+
+### Languages and Technologies
+- **HTML5** - Semantic and accessible structuring
+- **CSS3** - Responsive layouts and animations
+- **JavaScript** - DOM manipulation and interactivity
+- **Python** - Automation and scripts
+
+### Frameworks and Libraries
+- **Bootstrap** - Agile and responsive development
+
+### Tools
+- **Git** - Version control and collaboration
+
+## 🎯 Goals
+- Improve my JavaScript skills
+- Learn React.js
+- Contribute to open source projects
+- Develop challenging personal projects
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- LinkedIn: [Marcus Lafaiete](linkedin.com/in/marcus-lafaiete-74b084128)
+- Email: marcuslaf@hotmail.com
+
+## 💻 Featured Projects
+- [Project 1](link_project) - Brief description
+- [Project 2](link_project) - Brief description
+- [Project 3](link_project) - Brief description
+
+## 🌱 Currently studying
+-
+-
+-
+
+---
+⭐️ Made with ❤️ by Marcus Lafaiete
