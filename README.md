@@ -23,8 +23,9 @@ Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis
 - Contribuir para projetos open source
 - Desenvolver projetos pessoais desafiadores
 
-## 📊 Estatísticas GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
@@ -68,7 +69,8 @@ Junior Front-end Developer passionate about creating incredible and functional w
 - Develop challenging personal projects
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
