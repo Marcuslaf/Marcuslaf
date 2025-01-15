@@ -68,10 +68,22 @@ goals = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Marcus's GitHub Stats Card"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&langs_count=7&theme=tokyonight" alt="Marcus's Most Used Languages Card"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+         alt="Marcus's GitHub Stats Card" 
+         height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&langs_count=7&theme=tokyonight" 
+         alt="Marcus's Most Used Languages Card" 
+         height="180em" />
+  </div>
 
-[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcuslaf&theme=tokyonight)](https://git.io/streak-stats)
+  <div style="margin-top: 10px;">
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcuslaf&theme=tokyonight" 
+           alt="Marcus's GitHub Contribution Streak Card" 
+           height="180em" />
+    </a>
+  </div>
 
 </div>
 
