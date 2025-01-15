@@ -31,7 +31,7 @@ const marcus = {
     code: ["HTML", "CSS", "JavaScript", "Python"],
     tools: ["Bootstrap", "Git", "VSCode"],
     currentFocus: "Building awesome web experiences | Criando experiências incríveis na web",
-    learningGoals: ["React.js", "Advanced JavaScript | JavaScript Avançado", "Web Animation | Animações para Web"]
+    learningGoals: ["Advanced JavaScript | JavaScript Avançado", "Web Animation | Animações para Web"]
 };
 
 ```
