@@ -26,14 +26,13 @@
 ## 🧑‍💻 About me | Sobre mim
 ```javascript
 const marcus = {
-    role: "Frontend Developer | Desenvolvedor Frontend",
-    location: "Brazil | Brasil",
+    role: "Desenvolvedor Frontend | Frontend Developer",
+    location: "Brasil | Brazil",
     code: ["HTML", "CSS", "JavaScript", "Python"],
     tools: ["Bootstrap", "Git", "VSCode"],
-    currentFocus: "Building awesome web experiences | Criando experiências incríveis na web",
-    learningGoals: ["Advanced JavaScript | JavaScript Avançado", "Web Animation | Animações para Web"]
+    currentFocus: "Criando experiências incríveis na web | Building awesome web experiences",
+    learningGoals: ["JavaScript Avançado | Advanced JavaScript", "Animações para Web | Web Animation"]
 };
-
 ```
 
 ## 🚀 Skills & Technologies | Habilidades & Tecnologias
@@ -52,16 +51,17 @@ const marcus = {
 ```python
 goals = {
     "technical": [
-        "🚀 Master JavaScript ES6+",
-        "⚛️ Build React.js projects",
-        "🌟 Contribute to open source"
+        "🚀 Dominar JavaScript ES6+",  # Master JavaScript ES6+
+        "⚛️ Construir projetos com React.js",  # Build React.js projects
+        "🌟 Contribuir para código aberto"  # Contribute to open source
     ],
     "professional": [
-        "📚 Continuous learning",
-        "🤝 Collaborate on team projects",
-        "💼 Expand portfolio"
+        "📚 Aprendizado contínuo",  # Continuous learning
+        "🤝 Colaborar em projetos de equipe",  # Collaborate on team projects
+        "💼 Expandir portfólio"  # Expand portfolio
     ]
 }
+
 ```
 
 ## 📈 GitHub Stats | Estatísticas GitHub
@@ -92,9 +92,10 @@ goals = {
 <div align="center">
 
 ### Python  
-![Python](https://img.shields.io/badge/Python-Atualmente%20Estudando-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Atualmente%20Estudando%20%7C%20Currently%20Learning-blue?style=for-the-badge&logo=python)
 
 </div>
+
 
 
 ## 📫 Let's Connect! | Vamos Conectar!
