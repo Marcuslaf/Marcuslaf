@@ -1,83 +1,124 @@
-# Hello, welcome to my GitHub! 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Hello!+👋;Welcome!+👋;Bem-vindo!+👋" />
+  </a>
+</h1>
 
-## About me
-Junior Front-end Developer passionate about creating incredible and functional web experiences. Always seeking learning opportunities and new challenges in web development.
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Frontend+%F0%9F%92%BB;Frontend+Developer+%F0%9F%92%BB;Apaixonado+por+Programação+%F0%9F%9A%80;Passionate+about+Coding+%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%93%9A;Always+Learning+%F0%9F%93%9A" />
+  </a>
+</h3>
 
-## 🚀 Technical Skills
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" alt="hi" />
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="coding" />
+</p>
 
-### Languages and Technologies
-- **HTML5** - Semantic and accessible structuring
-- **CSS3** - Responsive layouts and animations
-- **JavaScript** - DOM manipulation and interactivity
-- **Python** - Automation and scripts
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Frontend;Frontend+Developer;Sempre+Aprendendo;Always+Learning;Codando+com+%E2%9D%A4%EF%B8%8F;Coding+with+%E2%9D%A4%EF%B8%8F" />
+  </a>
+</div>
 
-### Frameworks and Libraries
-- **Bootstrap** - Agile and responsive development
 
-### Tools
-- **Git** - Version control and collaboration
+## 🧑‍💻 About me | Sobre mim
+```javascript
+const marcus = {
+    role: "Frontend Developer | Desenvolvedor Frontend",
+    location: "Brazil | Brasil",
+    code: ["HTML", "CSS", "JavaScript", "Python"],
+    tools: ["Bootstrap", "Git", "VSCode"],
+    currentFocus: "Building awesome web experiences | Criando experiências incríveis na web",
+    learningGoals: ["React.js", "Advanced JavaScript | JavaScript Avançado", "Web Animation | Animações para Web"]
+};
 
-## 🎯 Goals
-- Improve my JavaScript skills
-- Learn React.js
-- Contribute to open source projects
-- Develop challenging personal projects
+```
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&theme=radical)
+## 🚀 Skills & Technologies | Habilidades & Tecnologias
+<div align="center">
+  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 How to reach me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
+</div>
 
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
+## 🎯 2025 Goals | Objetivos 2025
+```python
+goals = {
+    "technical": [
+        "🚀 Master JavaScript ES6+",
+        "⚛️ Build React.js projects",
+        "🌟 Contribute to open source"
+    ],
+    "professional": [
+        "📚 Continuous learning",
+        "🤝 Collaborate on team projects",
+        "💼 Expand portfolio"
+    ]
+}
+```
 
-## 💻 Featured Projects
-- More details coming soon
+## 📈 GitHub Stats | Estatísticas GitHub
 
-## 🌱 Currently studying
-- **Python**
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Marcus's GitHub Stats Card"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&langs_count=7&theme=tokyonight" alt="Marcus's Most Used Languages Card"/>
+
+[![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcuslaf&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 💻 Featured Projects | Projetos em Destaque
+
+<div align="center">
+
+[![DIO Desafio Jogo Detona Ralph](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=dio_desafio_jogo_detona_ralph&theme=tokyonight)](https://github.com/Marcuslaf/dio_desafio_jogo_detona_ralph)  
+**DIO Desafio Jogo Detona Ralph | Game Challenge from DIO**  
+
+[![Desafio Jogo da Memória](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=Desafio-jogo-da-memoria&theme=tokyonight)](https://github.com/Marcuslaf/Desafio-jogo-da-memoria)  
+**Desafio Jogo da Memória | Memory Game Challenge**
+
+</div>
+
+## 🌱 Currently Learning | Atualmente Estudando
+
+<div align="center">
+
+### Python  
+![Python](https://img.shields.io/badge/Python-Atualmente%20Estudando-blue?style=for-the-badge&logo=python)
+
+</div>
+
+
+## 📫 Let's Connect! | Vamos Conectar!
+
+<div align="center">
+
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
+[![Email Contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcuslaf)
+
+</div>
+
+<div align="center">
+
+### 👀 Profile Views | Visualizações do Perfil
+![Profile View Counter](https://komarev.com/ghpvc/?username=Marcuslaf&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-# Olá, seja bem-vindo ao meu GitHub! 👋
+<div align="center">
 
-## Sobre mim
-Desenvolvedor Front-end Junior apaixonado por criar experiências web incríveis e funcionais. Sempre em busca de aprendizado e novos desafios na área de desenvolvimento web.
+### ⭐️ Thanks for visiting! | Obrigado pela visita! ⭐️
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting animated text"/>
 
-## 🚀 Habilidades Técnicas
-
-### Linguagens e Tecnologias
-- **HTML5** - Estruturação semântica e acessível
-- **CSS3** - Layouts responsivos e animações
-- **JavaScript** - Manipulação do DOM e interatividade
-- **Python** - Automação e scripts
-
-### Frameworks e Bibliotecas
-- **Bootstrap** - Desenvolvimento ágil e responsivo
-
-### Ferramentas
-- **Git** - Controle de versão e colaboração
-
-## 🎯 Objetivos
-- Aprimorar minhas habilidades em JavaScript
-- Aprender React.js
-- Contribuir para projetos open source
-- Desenvolver projetos pessoais desafiadores
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&theme=radical)
-
-## 📫 Como me encontrar
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-lafaiete-74b084128)
-
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslaf@hotmail.com)
-
-## 💻 Projetos em Destaque
-- Mais detalhes em breve
-
-## 🌱 Atualmente estudando
-- **Python**
-
----
+</div>
