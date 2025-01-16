@@ -65,9 +65,7 @@ goals = {
 ```
 
 ## 📈 GitHub Stats | Estatísticas GitHub
-
 <div align="center">
-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
          alt="Marcus's GitHub Stats Card" 
@@ -76,15 +74,6 @@ goals = {
          alt="Marcus's Most Used Languages Card" 
          height="180em" />
   </div>
-
-  <div style="margin-top: 10px;">
-    <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcuslaf&theme=tokyonight" 
-           alt="Marcus's GitHub Contribution Streak Card" 
-           height="180em" />
-    </a>
-  </div>
-
 </div>
 
 ## 💻 Featured Projects | Projetos em Destaque
