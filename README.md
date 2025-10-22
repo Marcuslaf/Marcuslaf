@@ -27,7 +27,7 @@
 const marcus = {
     role: "Desenvolvedor Frontend | Frontend Developer",
     location: "Brasil | Brazil",
-    code: ["HTML", "CSS", "JavaScript", "Python"],
+    code: ["HTML", "CSS", "JavaScript", "Python", "Java"],
     tools: ["Bootstrap", "Git", "VSCode"],
     currentFocus: "Criando experiências incríveis na web | Building awesome web experiences",
     learningGoals: ["JavaScript Avançado | Advanced JavaScript", "Animações para Web | Web Animation"]
