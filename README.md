@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Hello!+👋;Welcome!+👋;Bem-vindo!+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋+Hello!+👋;Bem-vindo!+👋+Welcome!+👋" />
   </a>
 </h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Frontend+%F0%9F%92%BB;Frontend+Developer+%F0%9F%92%BB;Apaixonado+por+Programação+%F0%9F%9A%80;Passionate+about+Coding+%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%93%9A;Always+Learning+%F0%9F%93%9A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Frontend+Junior+%F0%9F%92%BB+|+Junior+Frontend+Developer+%F0%9F%92%BB;Apaixonado+por+Programação+%F0%9F%9A%80+|+Passionate+about+Coding+%F0%9F%9A%80;Sempre+Aprendendo+%F0%9F%93%9A+|+Always+Learning+%F0%9F%93%9A" />
   </a>
 </h3>
 
@@ -18,10 +18,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Frontend;Frontend+Developer;Sempre+Aprendendo;Always+Learning;Codando+com+%E2%9D%A4%EF%B8%8F;Coding+with+%E2%9D%A4%EF%B8%8F" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Frontend+Junior+%F0%9F%92%BB+|+Junior+Frontend+Developer+%F0%9F%92%BB;Sempre+Aprendendo+%F0%9F%93%9A+|+Always+Learning+%F0%9F%93%9A;Codando+com+%E2%9D%A4%EF%B8%8F+|+Coding+with+%E2%9D%A4%EF%B8%8F" />
   </a>
 </div>
-
 
 ## 🧑‍💻 About me | Sobre mim
 ```javascript
@@ -36,12 +35,14 @@ const marcus = {
 ```
 
 ## 🚀 Skills & Technologies | Habilidades & Tecnologias
+
 <div align="center">
-  
+
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -61,18 +62,14 @@ goals = {
         "💼 Expandir portfólio"  # Expand portfolio
     ]
 }
-
 ```
 
 ## 📈 GitHub Stats | Estatísticas GitHub
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-         alt="Marcus's GitHub Stats Card" 
-         height="180em" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&langs_count=7&theme=tokyonight" 
-         alt="Marcus's Most Used Languages Card" 
-         height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Marcuslaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Marcus's GitHub Stats Card" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuslaf&layout=compact&langs_count=7&theme=tokyonight" alt="Marcus's Most Used Languages Card" height="180em" />
   </div>
 </div>
 
@@ -80,10 +77,12 @@ goals = {
 
 <div align="center">
 
-[![DIO Desafio Jogo Detona Ralph](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=dio_desafio_jogo_detona_ralph&theme=tokyonight)](https://github.com/Marcuslaf/dio_desafio_jogo_detona_ralph)  
-**DIO Desafio Jogo Detona Ralph | Game Challenge from DIO**  
+[![DIO Desafio Jogo Detona Ralph](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=dio_desafio_jogo_detona_ralph&theme=tokyonight)](https://github.com/Marcuslaf/dio_desafio_jogo_detona_ralph)
 
-[![Desafio Jogo da Memória](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=Desafio-jogo-da-memoria&theme=tokyonight)](https://github.com/Marcuslaf/Desafio-jogo-da-memoria)  
+**DIO Desafio Jogo Detona Ralph | Game Challenge from DIO**
+
+[![Desafio Jogo da Memória](https://github-readme-stats.vercel.app/api/pin/?username=Marcuslaf&repo=Desafio-jogo-da-memoria&theme=tokyonight)](https://github.com/Marcuslaf/Desafio-jogo-da-memoria)
+
 **Desafio Jogo da Memória | Memory Game Challenge**
 
 </div>
@@ -92,12 +91,11 @@ goals = {
 
 <div align="center">
 
-### Python  
-![Python](https://img.shields.io/badge/Python-Atualmente%20Estudando%20%7C%20Currently%20Learning-blue?style=for-the-badge&logo=python)
+### Java
+
+![Java](https://img.shields.io/badge/Java-Atualmente%20Estudando%20%7C%20Currently%20Learning-orange?style=for-the-badge&logo=openjdk)
 
 </div>
-
-
 
 ## 📫 Let's Connect! | Vamos Conectar!
 
@@ -112,6 +110,7 @@ goals = {
 <div align="center">
 
 ### 👀 Profile Views | Visualizações do Perfil
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Marcuslaf&color=blueviolet&style=for-the-badge)
 
 </div>
@@ -121,6 +120,7 @@ goals = {
 <div align="center">
 
 ### ⭐️ Thanks for visiting! | Obrigado pela visita! ⭐️
+
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting animated text"/>
 
 </div>
