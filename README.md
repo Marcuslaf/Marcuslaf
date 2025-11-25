@@ -71,15 +71,18 @@ console.log(developer);
 
 <div align="center">
 
-### 📈 Contribution Stats
+### 📈 Performance Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcuslaf&theme=radical" width="100%" alt="Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcuslaf&theme=radical" width="400" alt="Stats"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcuslaf&theme=radical" width="49%" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcuslaf&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+### 📊 Contribution Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcuslaf&theme=radical" width="49%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcuslaf&theme=radical" width="49%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcuslaf&theme=radical" width="900" alt="Contribution Graph"/>
+
+### 💻 Language Distribution
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcuslaf&theme=radical" width="400" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcuslaf&theme=radical" width="400" alt="Most Commit Language"/>
 
 </div>
 
